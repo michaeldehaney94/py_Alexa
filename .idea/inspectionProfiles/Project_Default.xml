@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mysite.mysite.urls.myapp" />
+          <option value="mysite.myapp.models.Book.objects" />
+          <option value="todoapp.myapp.models.Task.objects" />
+          <option value="crudapi.api.models.User.DoesNotExist" />
+          <option value="crudapi.api.models.User.objects" />
+          <option value="beverages.beverages.models.Beverage.objects" />
+          <option value="beverages.beverages.models.Beverage.DoesNotExist" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
